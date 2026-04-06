@@ -1,0 +1,3 @@
+0 Paquete
+1 Robar
+2 Repartidor
